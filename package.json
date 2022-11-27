@@ -1,0 +1,23 @@
+{
+  "name": "express-on-cyclic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggtripathi/express-on-cyclic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggtripathi/express-on-cyclic/issues"
+  },
+  "homepage": "https://github.com/ggtripathi/express-on-cyclic#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
